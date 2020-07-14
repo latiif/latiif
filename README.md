@@ -1,16 +1,21 @@
-### Hi there 👋
+### Mar7aba, Hi, Hej 👋
 
-<!--
-**latiif/latiif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Systems Developer. Open source & Linux enthusiast. Linguaphile.*
 
-Here are some ideas to get you started:
+Started programming with [Visual Basic 6](https://en.wikipedia.org/wiki/Visual_Basic).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enjoyed programming with [Borland Delphi 7](https://winworldpc.com/product/delphi/70).
+
+
+#### 🛠 I write code in
+<img src="./go.svg" alt="alt text" width="24"
+height="24">
+<img src="./java.svg" alt="alt text" width="24" height="24">
+<img src="./kotlin.svg" alt="alt text" width="64" height="24">
+<img src="./c.svg" alt="alt text" width="24" height="24">
+<img src="./cplusplus.svg" alt="alt text" width="24" height="24">
+<img src="./ts.svg" alt="alt text" width="24" height="24">
+<img src="./js.svg" alt="alt text" width="24" height="24">
+<img src="./python.svg" alt="alt text" width="24" height="24">
+
+[![Website](https://img.shields.io/badge/Website-latiif.se-blue?style=flat-square)](https://latiif.se)
