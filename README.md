@@ -18,4 +18,4 @@ height="24">
 <img src="https://raw.githubusercontent.com/latiif/latiif/master/js.svg" alt="alt text" width="24" height="24">
 <img src="https://raw.githubusercontent.com/latiif/latiif/master/python.svg" alt="alt text" width="24" height="24">
 
-[![Website](https://img.shields.io/badge/Website-latiif.se-blue?style=flat-square)](https://latiif.se)
+![Latiif's GitHub stats](https://github-readme-stats.vercel.app/api?username=latiif&count_private=true&show_icons=true)
